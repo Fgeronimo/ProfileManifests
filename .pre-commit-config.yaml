@@ -1,7 +1,9 @@
 repos:
   - repo: https://github.com/homebysix/pre-commit-macadmin
     # Please use commit hash instead of tag
-    rev: 26bd4322b87b2136701aed0c77a60c7e931f3781
+    rev: v1.17.0
     hooks:
       - id: check-preference-manifests
         exclude: "^Resources/|^Manifests/ManagedPreferencesDeveloper/"
+      - id: format-xml-plist  
+        exclude: "^Resources/|^Manifests/ManagedPreferencesDeveloper/|^ManifestsInactive/|^Manifests/ManagedPreferencesApple/|^Manifests/ManifestsApple/|^ManifestExamples/"
