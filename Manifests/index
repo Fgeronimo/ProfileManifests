@@ -112,6 +112,15 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<key>com.apple.dt.Xcode</key>
+		<dict>
+			<key>modified</key>
+			<date>2025-01-27T01:01:44Z</date>
+			<key>path</key>
+			<string>Manifests/ManagedPreferencesApple/com.apple.dt.Xcode.plist</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<key>com.apple.finder</key>
 		<dict>
 			<key>modified</key>
@@ -505,7 +514,7 @@
 		<key>com.github.macadmins.Nudge</key>
 		<dict>
 			<key>modified</key>
-			<date>2024-08-12T12:17:30Z</date>
+			<date>2025-02-13T00:00:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.github.macadmins.Nudge.plist</string>
 			<key>version</key>
@@ -568,7 +577,7 @@
 		<key>com.google.santa</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-01-15T11:02:30Z</date>
+			<date>2025-01-26T23:49:44Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.google.santa.plist</string>
 			<key>version</key>
@@ -880,6 +889,15 @@
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
+		<key>com.northpolesec.santa</key>
+		<dict>
+			<key>modified</key>
+			<date>2025-01-26T23:49:44Z</date>
+			<key>path</key>
+			<string>Manifests/ManagedPreferencesApplications/com.northpolesec.santa.plist</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<key>com.papercut.printdeploy.client</key>
 		<dict>
 			<key>modified</key>
@@ -919,11 +937,11 @@
 		<key>com.secondsonconsulting.renew</key>
 		<dict>
 			<key>modified</key>
-			<date>2022-11-25T00:00:00Z</date>
+			<date>2025-02-14T12:33:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.secondsonconsulting.renew.plist</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>com.sentinelone.registration-token</key>
 		<dict>
@@ -2355,6 +2373,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-02-04T17:16:36Z</date>
+	<date>2025-02-18T17:09:34Z</date>
 </dict>
 </plist>
