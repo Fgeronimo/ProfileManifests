@@ -336,6 +336,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.fxfactory.FxFactory.png</string>
 		</dict>
+		<key>com.gilburns.patcher</key>
+		<dict>
+			<key>hash</key>
+			<string>c7002459026c2cf15053e89b303c82ba</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.gilburns.patcher.png</string>
+		</dict>
 		<key>com.gingerlabs.notability-macOS</key>
 		<dict>
 			<key>hash</key>
@@ -360,7 +367,7 @@
 		<key>com.github.macadmins.SupportCompanion</key>
 		<dict>
 			<key>hash</key>
-			<string>fa537e839b782631d8c7bdecdeea2a10</string>
+			<string>1f4189b34e6081736152b88b6504a25a</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.github.macadmins.SupportCompanion.png</string>
 		</dict>
@@ -426,6 +433,13 @@
 			<string>c938b2520434547d3ab1c0b764d96c72</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.grammarly.ProjectLlama.png</string>
+		</dict>
+		<key>com.granola.app</key>
+		<dict>
+			<key>hash</key>
+			<string>c8c6a13d1ed063eaf09fafe86370fb93</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.granola.app.png</string>
 		</dict>
 		<key>com.hjuutilainen.MunkiAdmin</key>
 		<dict>
@@ -658,6 +672,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.microsoft.wdav.png</string>
 		</dict>
+		<key>com.missiveapp.osx</key>
+		<dict>
+			<key>hash</key>
+			<string>34aa307bdc490412d87d216ed22f2d2a</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.missiveapp.osx.png</string>
+		</dict>
 		<key>com.northpolesec.santa</key>
 		<dict>
 			<key>hash</key>
@@ -678,6 +699,13 @@
 			<string>3dab3be0adce6e962544983c8dca9d66</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.okta.mobile.auth-service-extension.png</string>
+		</dict>
+		<key>com.openai.codex</key>
+		<dict>
+			<key>hash</key>
+			<string>f8409fb7444ada124b13151bcd9fc035</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.openai.codex.png</string>
 		</dict>
 		<key>com.papercut.printdeploy.client</key>
 		<dict>
@@ -748,6 +776,13 @@
 			<string>eb5a36a5b21e9867956d7fc9b63a2b61</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.todesktop.230313mzl4w4u92.png</string>
+		</dict>
+		<key>com.trelica.macapp</key>
+		<dict>
+			<key>hash</key>
+			<string>a3c8e390ac2755fe87d57ecbfc8e4f4c</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.trelica.macapp.png</string>
 		</dict>
 		<key>com.trusourcelabs.NoMAD</key>
 		<dict>
@@ -1706,6 +1741,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2026-08-12T17:22:57Z</date>
+	<date>2026-10-07T12:57:11Z</date>
 </dict>
 </plist>
